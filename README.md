@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Link Referensi
+
+Berikut merupakan link untuk referensi pada bagian Redux:
+
+- https://gattigaga.com/id/article/cara-mudah-menggunakan-redux
+- https://code.tutsplus.com/en/tutorials/getting-started-with-redux-connecting-redux-with-react--cms-30352
+
 ## Available Scripts
 
 In the project directory, you can run:
